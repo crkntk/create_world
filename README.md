@@ -1,4 +1,4 @@
-# create_world
+# Create World
  
 This is a small game created in java. Its called create your own world. It randomly creates a new world in the game when you input a seed.
 algs4 library has to be inported in order to use the draw funcitons.
