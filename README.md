@@ -14,3 +14,5 @@ Also in game page was made so you can hover over the map and get info on the blo
 The connection of the rooms was implemented as well using Union Find algorithm
 Run main to play game but remember to import jar library provided
 
+Run main in byow/Core 
+
